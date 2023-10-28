@@ -32,7 +32,7 @@ To use this template for your portfolio site, follow the guide: [How to build a 
 ## Run project locally
 
 ```bash
-git clone https://github.com/Evavic44/sanity-nextjs-site.git
+git clone https://github.com/kubade220/sanity-nextjs-site.git
 
 cd sanity-nextjs-site
 
@@ -51,8 +51,8 @@ Visit [http://localhost:3000/studio][localhost-3000-studio] to edit content
 
 <!-- LINK VARIABLES -->
 
-[site]: https://sanity-nextjs-site.vercel.app
-[studio]: https://sanity-nextjs-site.vercel.app/studio
+[site]: sanity-nextjs-site-seven.vercel.app
+[studio]: sanity-nextjs-site-seven.vercel.app/studio
 [site-preview]: https://github.com/Evavic44/sanity-nextjs-site/assets/62628408/46229dc5-e925-4608-909a-848163dd491a
 [studio-preview]: https://github.com/Evavic44/sanity-nextjs-site/assets/62628408/53148f15-3b59-4e78-b072-bb0143f8fe81
 [sanity-homepage]: https://www.sanity.io
