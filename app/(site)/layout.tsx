@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Sanity Next.js Portfolio Site",
   metadataBase: new URL("https://sanity-nextjs-site-seven.vercel.app"),
-  description: "A personal portfolio site built with Sanity and Next.js",
+  description: "Portfolio",
   openGraph: {
     images:
       "https://res.cloudinary.com/victoreke/image/upload/v1689893059/docs/og.png",
